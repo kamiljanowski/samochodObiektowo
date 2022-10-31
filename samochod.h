@@ -11,7 +11,7 @@ class Samochod
 	int przebieg;
 
 
-    void dodaj_samochod()
+    void dodaj_samochod();
 
-    void wyswietl_samochod()
+    void wyswietl_samochod();
 };
